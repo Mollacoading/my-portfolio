@@ -95,6 +95,11 @@ main{
     color: white;
 }
 
+.hero .aboutme button a{
+    text-decoration: none;
+}
+
+
 
 .content{
     width: 100%;
